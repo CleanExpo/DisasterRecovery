@@ -1,11 +1,8 @@
 [build]
-  command = "npm run build"
+  base = "Disaster Recovery Qld/Website" # only if the project is in a subdirectory
   publish = "out"
-  
-[[plugins]]
-  package = "@netlify/plugin-nextjs"
+  command = "npm run build:static"
 
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
+# Add environment variables if needed
+[context.production.environment]
+  NEXT_PUBLIC_API_URL = "https://your-api-url.com"

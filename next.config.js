@@ -1,5 +1,4 @@
 module.exports = {
-  experimental: {
-    // Configuration for Next.js experimental features (empty as of now)
-  },
+  output: 'export', // Ensures Next.js exports as static files
+  distDir: 'out',   // Set the output directory for the build
 };
