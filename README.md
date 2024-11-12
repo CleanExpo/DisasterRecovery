@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # DisasterRecovery
 Disaster Recovery Qld website
 =======
+=======
+>>>>>>> 717b1584243ae0c0c880e19353ea3b4ba82baa8b
 Next.js Project
 This is a Next.js project bootstrapped with create-next-app.
 
@@ -33,5 +36,9 @@ You can check out the Next.js GitHub repository - your feedback and contribution
 Deploy on Netlify
 The easiest way to deploy your Next.js app is to use the Netlify Platform.
 
+<<<<<<< HEAD
 Check out the Next.js deployment documentation for more details.
 >>>>>>> 4373c6a (Restructured project for Netlify deployment)
+=======
+Check out the Next.js deployment documentation for more details.
+>>>>>>> 717b1584243ae0c0c880e19353ea3b4ba82baa8b

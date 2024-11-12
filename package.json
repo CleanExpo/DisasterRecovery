@@ -14,9 +14,15 @@
         "@radix-ui/react-slot": "^1.1.0",
         "clsx": "^2.1.1",
         "lucide-react": "^0.456.0",
+<<<<<<< HEAD
         "next": "^15.0.3",
         "react": "^18.3.1",
         "react-dom": "^18.3.1"
+=======
+        "next": "15.0.3",
+        "react": "19.0.0-rc-66855b96-20241106",
+        "react-dom": "19.0.0-rc-66855b96-20241106"
+>>>>>>> 717b1584243ae0c0c880e19353ea3b4ba82baa8b
     },
     "devDependencies": {
         "@types/node": "^20",

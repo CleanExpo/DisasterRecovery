@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -130,6 +131,8 @@ dist
 .yarn/install-state.gz
 .pnp.*
 =======
+=======
+>>>>>>> 717b1584243ae0c0c880e19353ea3b4ba82baa8b
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -171,4 +174,7 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 .cache/
+<<<<<<< HEAD
 >>>>>>> 4373c6a (Restructured project for Netlify deployment)
+=======
+>>>>>>> 717b1584243ae0c0c880e19353ea3b4ba82baa8b
